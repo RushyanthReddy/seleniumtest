@@ -1,0 +1,13 @@
+Read Me
+
+Requirements
+JDK 8.0
+Maven
+Firefox browser
+
+
+Steps to run
+1. Clone the git repo
+2. Run the command "mvn clean install -DskipTests" to check if the project is build successfully
+3. Run the command "mvn test" to run the test cases.
+
